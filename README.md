@@ -18,5 +18,6 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="margin-left: 45px;"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" style="margin-left: 45px;"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" style="margin-left: 45px;"/>
 </p>
