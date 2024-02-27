@@ -2,7 +2,7 @@
 
 :chart_with_upwards_trend: Github stats  
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz930&hide=css,html&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakirAliyev&hide=css,html&layout=compact&theme=github_dark)](https://github.com/zakiraliyev/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulaziz930&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
